@@ -1,3 +1,4 @@
+theme: Modernist
 ## Severi web-tehtävä
 -------------------
 
